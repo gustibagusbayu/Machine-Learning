@@ -1,2 +1,2 @@
 # Belajar-Machine-Learning
-Ini merupakan repository saya dalam melakukan pembelajaran machine learning di Kelas Idbootcamp Dicoding
+My repository for study machine learning with python.
